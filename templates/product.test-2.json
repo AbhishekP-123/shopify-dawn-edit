@@ -1,0 +1,223 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "755a2dc7-9c48-475b-b572-94da150dfc44": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "b52f81a2-5c8e-41c6-aac8-05e934105938": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Problems 'U' Face",
+            "content": "<p>Hi this UFOMOESTAR, have you ever wondered about a better, more efficient and convenient leash for your dog walks and how limited a basic traditional leash can be for long term use, if so then you are right because we had concerns too that the traditional basic leash is limited in what it can do for you and most importantly your furry friend, so much so that we noticed when we mentioned the thought of walking in the dark without a light sent shivers to their spine, whilst having to deal with a poor quality leash meant it would hurt their sensitive necks if they were to jerk suddenly by using a traditional basic leash, and how can we forget the thought of them being entangled in their own leash simply made our furry friends shook their heads in disapproval (just joking, though...they still had a really sad face).<\/p><p>See how UFOMOESTAR solves your problem.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "843680dc-ddd1-499d-b085-0d9921b71cb7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Problem Solved",
+            "content": "<p>We have taken action to provide an answer for all the problems you can think of when using a traditional basic leash by providing you and your furry friend a UFOMOESTAR leash, a UFOMOESTAR leash will offer you a selections of three colors which will provide you with clear visibility, alongside a torch to guide your furry friend up to 3 meters ahead so they can look where they are going during your nightly walkies. The problem of having a poor quality leash which can affect your furry friend’s sensitive neck is solved with our convenient, flexible and quality retractable leash with our ultra durable nylon material to ensure your furry friend is comfortable. The UFOMOESTAR leash is designed to extend up to 3 meters length to ensure you have total control whilst walking and your furry friend is not entangled in a mess of what was meant to be a regular walk, but instead ended up with them wrapped like a mummy with your current regular leash. <br\/>So what are you waiting for buy it now before your dog friends start the trend!<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "3c9fa98f-6191-4a62-8728-2126d7f1370e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Key Benefits 6-1",
+            "content": "<p>1. The circular design ensures you have your hands free when you need it most eg. to tie your shoelaces or to carry groceries and to pick up their poop.<\/p><p>2. Our leash is made from a bungee cord and ultra durable nylon that helps to smoothen out the sudden jerks which is better for your furry friend’s sensitive neck and safer for you so you won't be dragged along.<br\/>3. A built-in ring light will ensure you are visible to joggers and drivers on your nightly walkies with a choice of red, green or blue to maximize safety<\/p><p>4. A powerful torch which will provide a pathway upto 3 meters ahead while on your nightly walkies to ensure you and your furry friend can see where you are going.<br\/>5 .We have designed the leash with a bungee cord and ultra durable nylon material to extend up to 3 meters so you won’t get your leash tangled and to give you more control.<br\/>6. You have two types of modes, the first being ‘city mode’ and the second being ‘adventure mode’. The switch button is located on the handle to offer you flexibility in different situations.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "42d4e6fb-0882-447b-a4a9-2458dae43426": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Additional Info",
+            "content": "<p><strong>Which breeds <\/strong><\/p><p>The UFOMOESTAR leash is meant for active dogs weighing between 1 to 30 kg. However, a UFOMOESTAR leash is built to withstand up to 90 kg of force! This means that if you have a dog heavier than 30 kg, but one who isn't prone to sudden jerks or sprints, you could easily use a UFOMOESTAR leash to walk them. If you have a very active dog that likes to chase other dogs or in general jerks a lot then it's best not to exceed the 30 kg barrier. The maximum leash length is 3 meters or 9 ft. The diameter of the inner circle is 8.6cm .<br\/><strong>Chewing<\/strong><\/p><p>Of course, if your puppy has a habit of chewing on their leash our countless hours of engineering and testing has meant your leash will fade over time. That's why UFOMoestar Leash is designed so you can easily replace the end part of the leash, making sure it stays as reliable as when you first got it.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "755a2dc7-9c48-475b-b572-94da150dfc44",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "b52f81a2-5c8e-41c6-aac8-05e934105938",
+        "843680dc-ddd1-499d-b085-0d9921b71cb7",
+        "3c9fa98f-6191-4a62-8728-2126d7f1370e",
+        "42d4e6fb-0882-447b-a4a9-2458dae43426"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "hide_variants": false,
+        "enable_video_looping": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": true
+      }
+    },
+    "1636365895ef4b4765": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636365895ef4b4765-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1636365895ef4b4765-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1636365895ef4b4765-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636365895ef4b4765-0",
+        "1636365895ef4b4765-1",
+        "1636365895ef4b4765-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1636365597681f9c83": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/why_ufomoestar.jpg",
+        "video_url": "https:\/\/youtu.be\/jYi6xnPZCnA",
+        "description": "",
+        "full_width": true
+      }
+    },
+    "1636345168a1b94a0c": {
+      "type": "apps",
+      "blocks": {
+        "8a2a440a-b643-43e5-8a2e-47c70d5a85d0": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/all_reviews_page\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "extra_wrapper_classes": "page-width page-width--narrow"
+          }
+        }
+      },
+      "block_order": [
+        "8a2a440a-b643-43e5-8a2e-47c70d5a85d0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1634799177298fe3e2": {
+      "type": "newsletter",
+      "blocks": {
+        "1634799177298fe3e2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "1634799177298fe3e2-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1634799177298fe3e2-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1634799177298fe3e2-0",
+        "1634799177298fe3e2-1",
+        "1634799177298fe3e2-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1636365895ef4b4765",
+    "1636365597681f9c83",
+    "1636345168a1b94a0c",
+    "1634799177298fe3e2"
+  ]
+}

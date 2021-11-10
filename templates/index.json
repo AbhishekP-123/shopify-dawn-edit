@@ -1,0 +1,176 @@
+{
+  "sections": {
+    "16362904683f742c6b": {
+      "type": "rich-text",
+      "blocks": {
+        "16362904683f742c6b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The worlds first ring shaped leash",
+            "heading_size": "h1"
+          }
+        },
+        "16362904683f742c6b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>The best efficient convenient & comfortable leash for daily walkies <\/em><em><strong>enjoy your time with your pet<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16362904683f742c6b-0",
+        "16362904683f742c6b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
+    "1636353272165ec550": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636353272165ec550-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Do you know ?"
+          }
+        },
+        "1636353272165ec550-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On average, dog owners walk <strong>about 8 hours and 54 minutes per week !    <\/strong>does it wonder you . its the best practice for your dog and you also but the traditional leashes are making it hard for you to walk your dog simple . dog owners from around the world use UFOMoestar . <em><strong> SCROLL DOWN<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636353272165ec550-0",
+        "1636353272165ec550-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ufo-retractable-dog-leash-with-llight-he_main-4_1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16361051038b692dd1": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/why_ufomoestar.jpg",
+        "video_url": "https:\/\/youtu.be\/jYi6xnPZCnA",
+        "description": "retractable comfortable and convenient dog leash for all type of dogs  ufomoestar",
+        "full_width": true
+      }
+    },
+    "1636292458d182633b": {
+      "type": "multicolumn",
+      "blocks": {
+        "1636292458d182633b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/transperante_png_dog_hand_held_leash.png",
+            "title": "Hands Free Design",
+            "text": "<p>The circular design ensures you have your hands free when you need it most eg. to tie your shoelaces or to carry groceries and to pick up their poop.<\/p>"
+          }
+        },
+        "1636292458d182633b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/transperante_png_torch_light.png",
+            "title": "Torch Light",
+            "text": "<p>A powerful torch which will provide a pathway upto 3 meters ahead while on your nightly walkies to ensure you and your furry friend can see where you are going.<\/p>"
+          }
+        },
+        "1636292458d182633b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/transperante_ring_light.png",
+            "title": "Ring light",
+            "text": "<p>A built-in ring light will ensure you are visible to joggers and drivers on your nightly walkies with a choice of red, green or blue to maximize safety.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636292458d182633b-0",
+        "1636292458d182633b-1",
+        "1636292458d182633b-2"
+      ],
+      "settings": {
+        "title": "WHY UFOMOESTAR",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/ufo-moestar-retractable-leash",
+        "swipe_on_mobile": false
+      }
+    },
+    "163629046214967dd0": {
+      "type": "apps",
+      "blocks": {
+        "28634ef0-6720-4859-9383-2f9477af8598": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080,
+            "show_header": true
+          }
+        }
+      },
+      "block_order": [
+        "28634ef0-6720-4859-9383-2f9477af8598"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1634798069f474f50e": {
+      "type": "newsletter",
+      "blocks": {
+        "1634798069f474f50e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Members only exclusive discount"
+          }
+        },
+        "1634798069f474f50e-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p><strong>Become a member<\/strong> by putting your email and <strong>GET<\/strong> <strong>20% OFF<\/strong><em> exclusive discount<\/em> .<\/p>"
+          }
+        },
+        "1634798069f474f50e-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1634798069f474f50e-0",
+        "1634798069f474f50e-1",
+        "1634798069f474f50e-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
+    "1636290923b5846e33": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": ""
+      }
+    }
+  },
+  "order": [
+    "16362904683f742c6b",
+    "1636353272165ec550",
+    "16361051038b692dd1",
+    "1636292458d182633b",
+    "163629046214967dd0",
+    "1634798069f474f50e",
+    "1636290923b5846e33"
+  ]
+}
