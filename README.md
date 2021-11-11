@@ -5,4 +5,4 @@ and resised the images and padding in the product page to look more better .
 
 adding new things .....
 
-problem in checkout page variets not working.
+problem in product page variets not working.
